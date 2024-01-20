@@ -97,7 +97,7 @@ h1 {
     position: relative;
     width: 50%;
     height: 100%;
-    background-image: url(/images/image-product-desktop.jpg);
+    background-image: url(images/image-product-desktop.jpg);
     background-size: cover;
     border-top-left-radius: inherit;
     border-bottom-left-radius: inherit;
@@ -196,7 +196,7 @@ button:hover {
         position: relative;
         width: 350px;
         height: 60%;
-        background-image: url(/images/image-product-mobile.jpg);
+        background-image: url(images/image-product-mobile.jpg);
         background-size: cover;
         border-top-right-radius: 10px;
         border-bottom-left-radius: 0;
